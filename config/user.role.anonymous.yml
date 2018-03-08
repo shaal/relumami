@@ -1,4 +1,4 @@
-uuid: 21fa646b-3d59-44a0-a8d6-8e2da0f76888
+uuid: e0d46f67-1cb2-4453-8ff4-c5a3d9689fb6
 langcode: en
 status: true
 dependencies: {  }
@@ -9,7 +9,6 @@ label: 'Anonymous user'
 weight: 0
 is_admin: false
 permissions:
-  - 'access comments'
   - 'access content'
   - 'access site-wide contact form'
   - 'search content'

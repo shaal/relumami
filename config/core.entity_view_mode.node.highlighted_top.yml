@@ -1,0 +1,12 @@
+uuid: 30eedb24-d6cb-4254-af84-75f8c56fc664
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: EDZ9uHsd7zkvtetdVsORuBrgxYro64POLr2zyhybuCs
+id: node.highlighted_top
+label: 'Highlighted Top'
+targetEntityType: node
+cache: true

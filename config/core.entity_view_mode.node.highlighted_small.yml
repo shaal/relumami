@@ -1,0 +1,12 @@
+uuid: ee2540dc-41ca-4232-b899-8ea6948be4f6
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: uwYyeoazlcV1zRkr8h1NPpfC2MQUFaF2lnAWXNjmmec
+id: node.highlighted_small
+label: 'Highlighted Small'
+targetEntityType: node
+cache: true

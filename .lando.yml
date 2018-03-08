@@ -1,0 +1,8 @@
+name: relumami
+recipe: pantheon
+config:
+  framework: drupal8
+  xdebug: true
+  env: dev
+  site: relumami
+  id: f9cbbe08-9967-48e3-ab06-a3271c305ec9
